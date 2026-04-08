@@ -1,7 +1,23 @@
 # SaveMachine — Manutenção Preditiva Industrial
 
-Sistema completo de manutenção preditiva com IA:  
-**Backend Python (Flask + Machine Learning) + App Android (Java)**
+Sistema completo de manutenção preditiva com IA desenvolvido para o processo seletivo da Samsung.
+[cite_start]**Backend Python (Flask + Machine Learning) + App Android (Java)**[cite: 5, 153].
+
+---
+
+## ⚠️ IMPORTANTE: Alinhamento de Versões (JDK 26)
+
+[cite_start]Para evitar erros de sincronização do Gradle e garantir que o projeto compile sem falhas, é **obrigatório** utilizar as seguintes versões:
+
+* **Java Development Kit (JDK):** Oracle JDK 26 ou OpenJDK 26.
+* **Android Gradle Plugin (AGP):** 8.10.0.
+* **Gradle Wrapper:** 8.11.1 (ou 9.0).
+* **Android Studio:** Jellyfish 2024.2.1 ou superior.
+
+**Configurando no Android Studio:**
+1. Vá em **File > Settings > Build, Execution, Deployment > Build Tools > Gradle**.
+2. Em **Gradle JDK**, aponte para a pasta de instalação do seu **JDK 26**.
+3. Se o Sync falhar com erro de metadados, feche a IDE e limpe a pasta `C:\Users\SEU_USUARIO\.gradle\caches\`.
 
 ---
 
