@@ -1,7 +1,7 @@
 # SaveMachine — Manutenção Preditiva Industrial
 
 Sistema completo de manutenção preditiva com IA desenvolvido para o processo seletivo da Samsung.
-[cite_start]**Backend Python (Flask + Machine Learning) + App Android (Java)**[cite: 5, 153].
+[cite_start]**Backend Python (Flask + Machine Learning) + App Android (Java)**
 
 ---
 
