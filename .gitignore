@@ -6,3 +6,4 @@ local.properties
 venv/
 __pycache__/
 *.pkloracleJdk-26/
+oracleJdk-26/
