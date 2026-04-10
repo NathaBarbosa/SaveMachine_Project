@@ -1,7 +1,25 @@
 # SaveMachine — Manutenção Preditiva Industrial
 
-Sistema completo de manutenção preditiva com IA:  
-**Backend Python (Flask + Machine Learning) + App Android (Java)**
+[cite_start]Sistema inteligente para monitoramento de máquinas industriais e previsão de falhas utilizando IA[cite: 1].
+**Backend Python (Flask + ML) + App Android (Java)**.
+
+---
+
+## ⚠️ REQUISITOS DE AMBIENTE (ESTÁVEL)
+
+Este projeto foi migrado para uma pilha tecnológica de alta estabilidade (**LTS**) para garantir que a instalação seja simples e livre de erros de sincronização:
+
+* **Java Development Kit (JDK):** JDK 21 (LTS - Obrigatório).
+* **Android Gradle Plugin (AGP):** 8.10.0.
+* **Gradle Wrapper:** 8.11.1.
+* **Android Studio:** Jellyfish 2024.2.1 ou superior.
+
+**Configurando no Android Studio:**
+1. Vá em **File > Settings > Build, Execution, Deployment > Build Tools > Gradle**.
+2. Em **Gradle JDK**, selecione **"Embedded JDK (21)"**.
+3. No arquivo `android/app/build.gradle`, verifique se o `sourceCompatibility` está em `JavaVersion.VERSION_21`.
+
+---
 
 ---
 
